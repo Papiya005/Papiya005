@@ -8,7 +8,7 @@
 
 ## 🛠 Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,docker,linux,java,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,docker,kubernetes,java,)
 
 ---
 
@@ -16,3 +16,10 @@
 - LeetCode Practice Solutions
 - Web Development Projects
 - DevOps Practice Projects
+- ---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/papiya-dutta-43786131b/
+- 💻 LeetCode: https://leetcode.com/Papiya005/
+- 🟢 HackerRank: https://www.hackerrank.com/papiyadutta448
