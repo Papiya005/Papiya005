@@ -1,4 +1,5 @@
 # Hi 👋 I'm Papiya
+![Profile Views](https://komarev.com/ghpvc/?username=Papiya005)
 
 🚀 Aspiring Full Stack Developer  
 💻 Web Development & DevOps Enthusiast  
@@ -24,4 +25,4 @@
 - 💻 LeetCode: https://leetcode.com/Papiya005/
 - 🟢 HackerRank: https://www.hackerrank.com/papiyadutta448
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=Papiya005)
+
