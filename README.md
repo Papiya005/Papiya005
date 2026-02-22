@@ -23,3 +23,5 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/papiya-dutta-43786131b/
 - 💻 LeetCode: https://leetcode.com/Papiya005/
 - 🟢 HackerRank: https://www.hackerrank.com/papiyadutta448
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=Papiya005)
