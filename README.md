@@ -55,10 +55,6 @@ I'm passionate about building software, solving coding problems, and continuousl
 
 ---
 
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Papiya005&layout=compact&theme=tokyonight&cache_seconds=1800)
----
 
 ## 🌐 Connect With Me
 
