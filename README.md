@@ -1,4 +1,5 @@
 # Hi 👋, I'm Papiya Dutta
+![Profile Views](https://komarev.com/ghpvc/?username=Papiya005&style=for-the-badge)
 
 ### 💻 B.Tech CSE (Data Science) Student | Java Developer | DSA Enthusiast | Full-Stack Web Developer
 
