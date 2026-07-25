@@ -27,6 +27,15 @@ I'm passionate about building software, solving coding problems, and continuousl
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,mongodb,mysql,git,github,vscode)
 
 ---
+### Currently Learning
+
+![Learning](https://skillicons.dev/icons?i=docker,kubernetes)
+
+- Docker
+- Kubernetes
+- CI/CD (GitHub Actions)
+
+---
 
 ## 📂 Featured Repositories
 
