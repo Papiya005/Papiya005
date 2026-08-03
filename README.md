@@ -58,7 +58,7 @@ I'm passionate about building software, solving coding problems, and continuousl
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Papiya005&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Papiya005&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com/?user=Papiya005)
 
 ---
 
