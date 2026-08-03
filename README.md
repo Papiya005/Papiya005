@@ -36,8 +36,12 @@ I'm passionate about building software, solving coding problems, and continuousl
 - 🐳 Docker
 - ☸️ Kubernetes
 - ⚙️ GitHub Actions (CI/CD)
+- 
+
 
 ---
+![Learning](https://skillicons.dev/icons?i=bootstrap,tailwind,react)
+
 
 # 📂 Featured Repositories
 
