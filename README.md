@@ -70,7 +70,7 @@ I'm passionate about building software, solving coding problems, and continuousl
 
 # 🐍 Contribution Snake
 
-![Snake Animation](https://raw.githubusercontent.com/Papiya005/Papiya005/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Papiya005/Papiya005/gh-pages/github-contribution-grid-snake.svg)
 
 ---
 
