@@ -47,8 +47,7 @@ I'm passionate about building software, solving coding problems, and continuousl
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Papiya005&show_icons=true&theme=tokyonight&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Papiya005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ---
 
 # 💻 Most Used Languages
@@ -75,11 +74,6 @@ I'm passionate about building software, solving coding problems, and continuousl
 
 ---
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Papiya005&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 # 🌐 Connect With Me
 
