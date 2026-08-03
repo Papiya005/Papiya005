@@ -1,4 +1,4 @@
-```markdown
+
 # Hi 👋, I'm Papiya Dutta
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Papiya005&style=for-the-badge)
@@ -97,4 +97,3 @@ I'm passionate about building software, solving coding problems, and continuousl
 > **Code • Learn • Build • Improve • Repeat 🚀**
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-```
