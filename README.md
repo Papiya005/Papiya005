@@ -17,7 +17,7 @@ I'm passionate about building software, solving coding problems, and continuousl
 - 🎯 Goal: Become a Software Engineer
 - ⚡ Fun Fact: I enjoy solving algorithmic problems every day.
 
----
+------
 
 # 🛠 Tech Stack
 
